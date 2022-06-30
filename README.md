@@ -4,6 +4,11 @@
 >
 > \-- _Albus Dumbledore_
 
+## Why this fork?
+For projects that use React v18+
+
+## Original readme:point_down:
+
 ## 🤹‍ What is React Albus?
 React Albus is a React component library used to build declarative multi-step journeys (also known as Wizards).  You define your step content and ordering and React Albus will manage the journey-related state for you.
 
