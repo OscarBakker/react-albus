@@ -1,5 +1,9 @@
 module.exports = {
-  extends: ['amex', 'prettier', 'prettier/react'],
+  extends: [
+    'prettier',
+    'prettier/react',
+    'plugin:react-hooks/recommended',
+  ],
   plugins: ['prettier'],
   rules: {
     'prettier/prettier': [
